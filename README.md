@@ -1,7 +1,7 @@
 # SpaceShipTitanic
 
-## Top 25%
-| Leaderboard            |
+## Leaderboard
+| Top 25%            |
 |:--------------------:|
 | 529/2093               |
 
