@@ -10,8 +10,6 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 ## Goal
 Predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly.
 
-## Leaderboard
-
 | Leaderboard            |
 |:--------------------:|
 | 529/2093               |
@@ -19,4 +17,4 @@ Predict whether a passenger was transported to an alternate dimension during the
 Top 25%
 
 ## Note
-This is was my first submission to Kaggle. I am still learning Data Science and how to get better at it, when trying to do this competition I tried to look for the best ways to solve, the result ain't the best, but I think I've became a better Dta Scientist doing it.
+This is was my first submission to Kaggle. I am still learning Data Science and how to get better at it. When doing this competition I tried to look for the best ways to solve it, the result ain't the best, but I think I've became a better Data Scientist doing it.
