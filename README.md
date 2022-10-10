@@ -18,3 +18,5 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 
 ## Note
 This is was my first submission to Kaggle. I am still learning Data Science and how to get better at it. When doing this competition I tried to look for the best ways to solve it, the result ain't the best, but I think I've became a better Data Scientist doing it.
+
+Kaggle Profile : https://www.kaggle.com/tomsbourdain
